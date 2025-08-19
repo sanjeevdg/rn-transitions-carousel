@@ -1,0 +1,72 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Android
+/android/.gradle/
+/android/app/build/
+/android/build/
+/android/local.properties
+/android/app/release/
+/android/gradle/wrapper/gradle-wrapper.properties
+*.apk
+*.aar
+*.dex
+*.class
+
+# iOS
+/ios/build/
+/ios/Pods/
+/ios/Podfile.lock
+/ios/*.xcworkspace
+/ios/*/DerivedData/
+/ios/*/xcuserdata/
+/ios/*.xcodeproj/project.xcworkspace/
+/ios/*.xcuserstate
+
+# Xcode junk
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xccheckout
+*.moved-aside
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+/.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Fastlane (if used)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Temporary
+*.tmp
+*.temp
+
