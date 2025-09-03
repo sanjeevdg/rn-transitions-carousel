@@ -1,6 +1,6 @@
 {
   "name": "rn-transitions-carousel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A pure JavaScript React Native library",
   "main": "src/index.js",
   "files": ["lib"],
