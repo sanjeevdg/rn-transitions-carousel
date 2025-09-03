@@ -4,6 +4,14 @@
   "description": "A pure JavaScript React Native library",
   "main": "src/index.js",
   "files": ["lib"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeevdg/rn-transitions-carousel.git"
+  },
+  "homepage": "https://github.com/sanjeevdg/rn-transitions-carousel#readme",
+  "bugs": {
+    "url": "https://github.com/sanjeevdg/rn-transitions-carousel/issues"
+  },
   "scripts": {
     "build": "babel src --out-dir lib --extensions \".ts,.tsx\"",
     "prepare": "npm run build"
