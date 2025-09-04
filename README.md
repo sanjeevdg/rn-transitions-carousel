@@ -31,24 +31,14 @@ const images = [
 
 
 
-https://sanjeevdg.github.io/CircularImageCarousel.mp4
+
+<iframe width="1080" height="2460" src="https://youtube.com/shorts/eaRhp3atQCI?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
+<iframe width="1080" height="2460" src="https://youtube.com/shorts/29xULzRKsBY?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-
-
-
-
-
-
-
-
-
-
-https://sanjeevdg.github.io/VenetianBlindsCarousel.mp4
 
 
 
