@@ -26,11 +26,11 @@ const images = [
 
 &lt; CircularImageCarousel images={images} /&gt;
 
-<video src='./VenetianBlindsCarousel.mp4' width=180/>  
+<video src='./blob/main/VenetianBlindsCarousel.mp4' width=180/>  
 
 
 
-<video src='./CircularImageCarousel.mp4' width=180/>
+<video src='./blob/main/CircularImageCarousel.mp4' width=180/>
 
 
 
