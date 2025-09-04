@@ -26,11 +26,11 @@ const images = [
 
 &lt; CircularImageCarousel images={images} /&gt;
 
-<video src='https://github.com/sanjeevdg/rn-transitions-carousel/blob/main/CircularImageCarousel.mp4' width=180/>  
+<video src='https://sanjeevdg.github.io/CircularImageCarousel.mp4' width=180/>  
 
 
 
-<video src='https://github.com/sanjeevdg/rn-transitions-carousel/blob/main/CircularImageCarousel.mp4' width=180/>
+<video src='https://sanjeevdg.github.io/CircularImageCarousel.mp4' width=180/>
 
 
 
