@@ -1,12 +1,12 @@
 # rn-transitions-carousel
 
-First import the library   
+There are only two transition effects available currently, Venetian blinds and circular radial wipe.
 
-npm i rn-transitions-carousel   
-
-Then in your react native component import either VenetianBlindsCarousel or CircularImageCarousel like so  
+## Usage
 
 import {VenetianBlindsCarousel}   from 'rn-transitions-carousel';  
+
+**Or**
 
 import {CircularImageCarousel} from 'rn-transitions-carousel';  
 
@@ -18,19 +18,19 @@ const images = [
     "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?w=1600",  
   ];  
   
-
-
-Usage
+### And return the following markup in your render method
 
 &lt; VenetianBlindsCarousel images={images} /&gt;  
 
+**Or**
+
 &lt; CircularImageCarousel images={images} /&gt;
 
-<video src='https://github.com/sanjeevdg/rn-transitions-carousel/VenetianBlindsCarousel' width=180/>  
+<video src='./VenetianBlindsCarousel.mp4' width=180/>  
 
 
 
-<video src='https://github.com/sanjeevdg/rn-transitions-carousel/CircularImageCarousel' width=180/>
+<video src='./CircularImageCarousel.mp4' width=180/>
 
 
 
