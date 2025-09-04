@@ -30,13 +30,12 @@ const images = [
 
 
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/eaRhp3atQCI/0.jpg)](http://www.youtube.com/watch?v=eaRhp3atQCI "Circular Radial Wipe Carousel")
 
 
-<iframe width="1080" height="2460" src="https://www.youtube.com/embed/eaRhp3atQCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-<iframe width="1080" height="2460" src="https://www.youtube.com/embed/29xULzRKsBY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/29xULzRKsBY/0.jpg)](http://www.youtube.com/watch?v=29xULzRKsBY "Venetian Blinds Carousel")
 
 
 
