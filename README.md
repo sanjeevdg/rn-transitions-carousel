@@ -26,12 +26,35 @@ const images = [
 
 &lt; CircularImageCarousel images={images} /&gt;
 
-<video src='https://sanjeevdg.github.io/CircularImageCarousel.mp4' width=180/>  
 
 
 
-<video src='https://sanjeevdg.github.io/CircularImageCarousel.mp4' width=180/>
+
+<video width="1080" height="2460" controls>
+  <source src="https://sanjeevdg.github.io/CircularImageCarousel.mp4" type="video/mp4">
+</video>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<video width="1080" height="2460" controls>
+  <source src="https://sanjeevdg.github.io/VenetianBlindsCarousel.mp4" type="video/mp4">
+</video>
 
 
