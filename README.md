@@ -32,11 +32,11 @@ const images = [
 
 
 
-<iframe width="1080" height="2460" src="https://youtube.com/shorts/eaRhp3atQCI?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1080" height="2460" src="https://www.youtube.com/embed/eaRhp3atQCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-<iframe width="1080" height="2460" src="https://youtube.com/shorts/29xULzRKsBY?feature=share" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1080" height="2460" src="https://www.youtube.com/embed/29xULzRKsBY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
