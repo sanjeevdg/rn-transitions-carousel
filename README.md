@@ -30,9 +30,8 @@ const images = [
 
 
 
-<video width="1080" height="2460" controls>
-  <source src="https://sanjeevdg.github.io/CircularImageCarousel.mp4" type="video/mp4">
-</video>
+
+https://sanjeevdg.github.io/CircularImageCarousel.mp4
 
 
 
@@ -49,12 +48,8 @@ const images = [
 
 
 
+https://sanjeevdg.github.io/VenetianBlindsCarousel.mp4
 
 
-
-
-<video width="1080" height="2460" controls>
-  <source src="https://sanjeevdg.github.io/VenetianBlindsCarousel.mp4" type="video/mp4">
-</video>
 
 
