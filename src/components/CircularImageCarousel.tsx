@@ -5,7 +5,7 @@ import MaskedView from '@react-native-masked-view/masked-view';
 const { width, height } = Dimensions.get('window');
 const circleMaxRadius = Math.sqrt(width * width + height * height) / 2;
 
-const CircularImageCarousel = ({ images, interval = 3000 }) => {
+const CircularImageCarousel = ({style, width = width, height = 300, images, interval = 3000 }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [transitioning, setTransitioning] = useState(false);
   const revealRadius = useRef(new Animated.Value(0)).current;
@@ -54,7 +54,11 @@ const CircularImageCarousel = ({ images, interval = 3000 }) => {
   );
 
   return (
-    <View style={styles.container}>
+    <View style={[
+        styles.container,
+        { width, height, },
+        style, 
+      ]}>
       <Image
         source={{ uri: images[currentIndex] }}
         style={styles.image}
@@ -76,15 +80,19 @@ const CircularImageCarousel = ({ images, interval = 3000 }) => {
   );
 };
 
+
+
+
+
 const styles = StyleSheet.create({
   container: {
-    width,
+    width:width,
     height: 300,
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
   },
   image: {
-    width,
+    width:width,
     height: 300,
     position: 'absolute'
   },
